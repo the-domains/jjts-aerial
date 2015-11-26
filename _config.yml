@@ -1,0 +1,28 @@
+name: JJTS Aerial
+favicon: null
+layout_spectrum: 0.223625086247921
+typography_spectrum: 0.8582025470677763
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1325798809994012
+  lightness: 0.591244941810146
+  saturation: 0.7065536433365196
+  rhythmicContrast: 0.18513607210479677
+purpose: []
