@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-27T14:44:30.192Z'
-dateModified: '2015-11-27T14:44:27.451Z'
+datePublished: '2015-11-27T14:44:54.149Z'
+dateModified: '2015-11-27T14:44:51.666Z'
 title: The Advantage of Aerial Video to Your Business
 author: []
 sourcePath: _posts/2015-11-26-the-advantage-of-aerial-video-to-your-business.md
