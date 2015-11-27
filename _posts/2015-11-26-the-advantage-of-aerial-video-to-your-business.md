@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-27T14:39:30.913Z'
-dateModified: '2015-11-27T14:39:24.120Z'
+datePublished: '2015-11-27T14:44:02.518Z'
+dateModified: '2015-11-27T14:42:47.560Z'
 title: The Advantage of Aerial Video to Your Business
 author: []
 sourcePath: _posts/2015-11-26-the-advantage-of-aerial-video-to-your-business.md
@@ -49,3 +49,6 @@ A shot from above is an extreme means to capture the whole image of an occasion.
 ### **Branding and Marketing**
 
 This post includes just a couple of the several means particular industries could utilize aerial video to their benefit. On a wider spectrum, all businesses and companies can utilize aerial video for branding and marketing purposes. It's becoming much more common to see videos with shots taken from an aerial vantage point. Because they are becoming more common, a lot more people want video with bird's eye views included. Any company could enhance the visual look through using exceptional aerial video. Branding techniques could also be largely influenced by this kind of video.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc86b586-d338-412f-970b-05ed5dc8df14.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9f0e8b7-fe49-4d2a-a1c6-92f1dcc88cb9.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/710f18dc-a20a-4732-8e40-ffa1b17e1dc4.png)
