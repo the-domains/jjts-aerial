@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T21:30:43.000Z'
-dateModified: '2015-12-27T21:30:36.287Z'
+datePublished: '2015-12-27T21:31:14.463Z'
+dateModified: '2015-12-27T21:31:08.989Z'
 title: The Advantage of Aerial Video to Your Business
 author: []
 sourcePath: _posts/2015-11-26-the-advantage-of-aerial-video-to-your-business.md
