@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T21:31:14.463Z'
-dateModified: '2015-12-27T21:31:08.989Z'
+datePublished: '2016-01-14T11:15:50.559Z'
+dateModified: '2015-12-28T19:19:38.862Z'
 title: The Advantage of Aerial Video to Your Business
 author: []
 sourcePath: _posts/2015-11-26-the-advantage-of-aerial-video-to-your-business.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # **The Advantage of Aerial Video to Your Business**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05acddbf-fdfd-422f-a5bb-8094b06e1ea7.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98fece71-b479-4607-8a3f-fedfbff3a407.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9fd39c92b1a0ea782e579260fe510a2ad66cf5d.png)
 
 Through having a business video with such striking and attention grabbing video production, it is much more possible to engage with the customers and keep their attention. This will assist to enhance sales conversions as well as brand appeal after viewers watch the business video. Aerial video is an excellent opportunity to stand out from among the crowd as well as the competition to make an attention grabbing first impression of your company. On top of this, it provides a remarkable chance to showcase the advantage of your location, access, as well as surrounding features from angles not available in the past.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/710f18dc-a20a-4732-8e40-ffa1b17e1dc4.png)
